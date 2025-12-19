@@ -34,10 +34,10 @@
   * `/json` — обработка данных пользователя и возврат ответа
 
 ## Структура проекта
+```text
 task_1/
-app/
-init.py
-routes.py
-main.py
-requirements.txt
-README.md
+    app/
+        __init__.py
+        routes.py
+    main.py
+    README.md****
