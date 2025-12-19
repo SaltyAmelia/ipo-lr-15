@@ -35,8 +35,9 @@
 
 ## Структура проекта
 task_1/
-    app/
-        __init__.py
-        routes.py
-    main.py
-    README.md
+app/
+init.py
+routes.py
+main.py
+requirements.txt
+README.md
