@@ -35,9 +35,8 @@
 
 ## Структура проекта
 task_1/
-├── app/
-│ ├── init.py # создание Flask-приложения
-│ └── routes.py # маршруты веб-сервиса
-├── main.py # запуск сервера
-├── requirements.txt # зависимости проекта
-└── README.md # описание лабораторной работы
+    app/
+        __init__.py
+        routes.py
+    main.py
+    README.md
